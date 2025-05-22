@@ -19,7 +19,7 @@
 
   <section class="card">
     <h2>Image Carousel</h2>
-    <img id="carousel" src="img1.jpg" alt="Carousel Image">
+    <img id="carousel" src="C:\Users\sriva\Downloads\kakashi.jpg" alt="Carousel Image">
     <div class="controls">
       <button onclick="prevImage()">⏮ Prev</button>
       <button onclick="nextImage()">Next ⏭</button>
